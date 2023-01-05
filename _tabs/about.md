@@ -1,8 +1,16 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+![]({{ site.baseurl }}/images/about.jpg)
+
+## Peter Johnson BSc (hons), MSc, MBCS
+
+- Senior Software Engineer
+- Previous experience at Google and arm
+- Background in Software Testing and Computer Science
+- Live in Cambridge, UK
+- Graduated from the University of Hertfordshire
+- Research interest in HCI/web accessibility
+
 {: .prompt-tip }
