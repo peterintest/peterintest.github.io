@@ -2,7 +2,7 @@
 order: 1
 ---
 
-![]({{ site.baseurl }}/images/about.jpg)
+![Photo of Peter Johnson]({{ site.baseurl }}/images/about.jpg)
 
 ## Peter Johnson BSc (hons), MSc, MBCS
 

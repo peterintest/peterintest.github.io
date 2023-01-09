@@ -1,19 +1,9 @@
-# The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
 baseurl: ''
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
@@ -26,8 +16,7 @@ tagline: Senior Software Engineer
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: https://www.peterintest.com
+url: https://peterintest.com
 
 github:
   username: peterintest
@@ -36,14 +25,11 @@ twitter:
   username: peterintest
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Peter Johnson
-  email: example@domain.com             # change to your email address
+  email: peterjohnson1990@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/peterintest
     - https://www.linkedin.com/in/peterintest
+    - https://twitter.com/peterintest
 
 google_site_verification:               # fill in to your verification string
 
