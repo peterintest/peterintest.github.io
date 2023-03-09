@@ -3,7 +3,7 @@ layout: post
 title: Some ideas on software testing
 date: 2023-01-08 08:00:00 +0000
 categories: [Software Testing, Quality]
-tags: [Test Pyramid]
+tags: [test pyramid]
 image:
   path: /images/kirkjufell.jpg
   alt: A photo I took of Kirkjufell in Iceland from November 2022; it's not a pyramid but I like the photo

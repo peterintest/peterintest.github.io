@@ -2,8 +2,8 @@
 layout: post
 title: PyCon UK - Prototype for accessibility research
 date: 2023-02-05 11:33:00 +0800
-categories: [Python, Research]
-tags: [accessibility]
+categories: [accessibility, research]
+tags: [accessibility, python]
 image:
   path: /images/talk.jpg
   alt: Presenting talk at lectern in Cardiff City Hall
